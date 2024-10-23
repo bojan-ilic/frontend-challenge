@@ -1,0 +1,23 @@
+.App {
+	text-align: center;
+	padding: 1rem;
+}
+
+.addBoxButton {
+	background-color: #99E1D9;
+	border: none;
+	padding: 0.5rem 1rem;
+	cursor: pointer;
+	margin-bottom: 1rem;
+	border-radius: 8px;
+}
+
+.addBoxButton:hover {
+	background-color: #705D56;
+}
+
+.marbleBoxes {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
